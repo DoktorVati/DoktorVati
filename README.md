@@ -1,5 +1,5 @@
 # 💫About Me :
-I am Noah Sylvester, a Computer Science major at the University of North Georgia, and Founding Vice President of UNG's App Development Club.
+I am Noah Sylvester, a Computer Science major at the University of North Georgia, and Founding Vice President of UNG's App Development Club. To see most of my works, please view my repositories!
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/InhibiousStudios) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/noah-sylvester-20a90521a) 
